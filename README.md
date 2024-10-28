@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://rishavchanda.io)
+[![MasterHead](<NEW_GIF_URL_HERE>)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Deepak M</h1>
 <h3 align="center">A dedicated MERN stack developer from India, turning ideas into impactful web applications.</h3>

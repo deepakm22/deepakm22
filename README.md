@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=deepak&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🔭 Currently working on **Doctor Appointment Scheduler**
+- 🔭 Currently working on **Doctor Appointment Scheduler***
 
 - 🌱 Exploring **Angular and Vue.js**
 

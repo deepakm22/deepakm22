@@ -78,13 +78,13 @@
 | Skill | Experience |
 |-------|------------|
 | **HTML** | ⭐⭐⭐⭐⭐ |
-| **CSS** | ⭐⭐⭐⭐ |
+| **CSS** | ⭐⭐⭐⭐⭐ |
 | **JavaScript** | ⭐⭐⭐⭐⭐ |
-| **React** | ⭐⭐⭐⭐ |
+| **React** | ⭐⭐⭐⭐⭐|
 | **Node.js** | ⭐⭐⭐⭐ |
 | **Express.js** | ⭐⭐⭐⭐⭐ |
-| **MongoDB** | ⭐⭐⭐⭐ |
-| **MySQL** | ⭐⭐⭐ |
+| **MongoDB** | ⭐⭐⭐⭐⭐ |
+| **MySQL** | ⭐⭐⭐⭐⭐ |
 
 ---
 

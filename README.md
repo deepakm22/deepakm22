@@ -68,7 +68,7 @@
 ### 🎨 Featured Projects
 <!-- You can replace these placeholders with your actual projects -->
 - [Project 1: Doctor Appointment Booking](https://github.com/deepakm22/doctor-timeslot)
-- [Project 2: MERN Stack E-commerce](https://github.com/deepak/mern-ecommerce)
+- [Project 2: Shopping Cart](https://github.com/deepakm22/intern-deepak/tree/develop/month-project/shopping_cart)
 - [Project 3: Real-time Chat Application](https://github.com/deepak/chat-app)
 
 ---

@@ -69,7 +69,7 @@
 <!-- You can replace these placeholders with your actual projects -->
 - [Project 1: Doctor Appointment Booking](https://github.com/deepakm22/doctor-timeslot)
 - [Project 2: Shopping Cart](https://github.com/deepakm22/intern-deepak/tree/develop/month-project/shopping_cart)
-- [Project 3: Real-time Chat Application](https://github.com/deepak/chat-app)
+- [Project 3: TODO List](https://github.com/deepakm22/intern-deepak/tree/develop/month-project-2)
 
 ---
 
